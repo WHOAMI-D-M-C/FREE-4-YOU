@@ -6,7 +6,7 @@
            
                cd FREE-4-YOU
 
-               
+               python free.cpython-38.pyc
 
 
 #result @.jpg
